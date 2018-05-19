@@ -17,69 +17,36 @@
 ### 活动预算
 
 | 支出类目 | 数量 | 总价 | 备查链接 |
-| ------  | --- | ---- | ------ |
 | 一等奖奖品：arduino(如果有企业支持可以是minidrone) | 1 | 150 | |
-| 二等奖奖品： RobotDrone杂志| 2 | 76 |https://detail.tmall.com/item.htm?id=566177865605&areaId=310100&user_id=723495040&cat_id=2&is_b=1&rn=f6959bf314007776c3f1de0af71304ad |
-| 参与奖品：geekpie奖品 | 5 | 30 | |
+| 二等奖奖品： RobotDrone杂志| 2 | 76 |https://detail.tmall.com/item.htmid=566177865605&areaId=310100&user_id=723495040&cat_id=2&is_b=1&rn=f6959bf314007776c3f1de0af71304ad |
+| 参与奖品：geekpie奖品 | 5 | 30 | 
 
 ### 时间表
 
-* 7月10日 系统上线
+* 待定
 
 ## 动手搭建智能硬件
 
-* **活动时长场次** 1场，持续2天，共1场
+* **活动时长场次** 1场，持续1天，共1场
 * **活动组织人员**
-  * 夏寅岑
-* **活动开展场地** 学生创新中心/信息学院1B-201
-* **预计参与规模** 30 人
+  * 何家宇
+* **活动开展场地** 学生创新中心
+* **预计参与规模** 20-30 人
 * **是否校际活动** 否
 
-### 介绍与涉及筹备工作
-
-展示往届 Hackathon 中的作品，如辅助视觉腰包等，并提供原材料和编程平台，供同学动手搭建。
-
 ### 领导看得懂的活动介绍
 
-使用树莓派等创客硬件，搭配深度摄像头，计算机视觉手段搭建智能穿戴硬件、物联网硬件。
+使用开源四轴进行开发，使用第一人称视角操控飞行，让同学们体验飞行和开发的乐趣
 
 ### 活动预算
 
 | 支出类目 | 数量 | 总价 | 备查链接 |
-|minfly开源无人机| 5| 1990|https://detail.tmall.com/item.htm?id=566327689466&cm_id=140105335569ed55e27b&abbucket=4|
-|kingkong Q25超轻25mw MINI 图传| 5| 475|https://item.taobao.com/item.htm?id=540819422434&ns=1&abbucket=4#detail|
-|FPV RACER 视频眼镜 内置 5.8G 图传接收 |5|1500|https://item.taobao.com/item.htm?id=542569804642|
-|配件| 5 |200|
+|minfly开源无人机|5|1990|https://detail.tmall.com/item.htm?id=566327689466&cm_id=140105335569ed55e27b&abbucket=4|
+|kingkong Q25超轻25mw MINI 图传|5|475|https://item.taobao.com/item.htm?id=540819422434&ns=1&abbucket=4#detail|
+|FPV RACER 视频眼镜 内置 5.8G 图传接收|5|1500|https://item.taobao.com/item.htm?id=542569804642|
+|配件|5|200|
+|标志桩|10|50|
 
-### 时间表
-
-* 7月2日 采购到位
-
-## 创新讲座
-
-* **活动时长场次** 一天上午讲座加开发，下午开发，比赛1小时
-* **活动组织人员**
- *何家宇
-* **活动开展场地** 学生创新中心105
-* **预计参与规模** 20-30 人/场
-* **是否校际活动** 是
-
-### 介绍与涉及筹备工作
-
-准备多个主题讲座，介绍无人机及其程序结构。
-
-### 领导看得懂的活动介绍
-
-涉及无人机领域的入门知识，带领同学们感受飞行和开发的乐趣。
-
-### 活动预算
-
-| 支出类目 | 数量 | 总价 | 备查链接 |
-|minfly开源无人机| 5| 1990|https://detail.tmall.com/item.htm?id=566327689466&cm_id=140105335569ed55e27b&abbucket=4|
-|kingkong Q25超轻25mw MINI 图传| 5| 475|https://item.taobao.com/item.htm?id=540819422434&ns=1&abbucket=4#detail|
-|FPV RACER 视频眼镜 内置 5.8G 图传接收 |5|1500|https://item.taobao.com/item.htm?id=542569804642|
-|配件| 5 |200|
-### 时间表
 
 * 6月20日 完成选题
 * 7月10日 准备
