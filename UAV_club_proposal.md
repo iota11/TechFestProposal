@@ -18,7 +18,7 @@
 
 | 支出类目 | 数量 | 总价 | 备查链接 |
 | 一等奖奖品：arduino(如果有企业支持可以是minidrone) | 1 | 150 | |
-| 二等奖奖品： RobotDrone杂志| 2 | 76 |https://detail.tmall.com/item.htmid=566177865605&areaId=310100&user_id=723495040&cat_id=2&is_b=1&rn=f6959bf314007776c3f1de0af71304ad |
+| 二等奖奖品： RobotDrone杂志| 2 | 76 |
 | 参与奖品：geekpie奖品 | 5 | 30 | 
 
 ### 时间表
